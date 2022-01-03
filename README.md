@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brunnatalitav
+- 👋 Hi, I’m Brunna Talita
 - 👀 I’m interested in ux and ui design
 - 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate on development projects
